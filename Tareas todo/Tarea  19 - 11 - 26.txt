@@ -1,0 +1,1 @@
+En un mat crear un filtro pasa bajas y pasa altas utilizando la biblioteca de opencv
